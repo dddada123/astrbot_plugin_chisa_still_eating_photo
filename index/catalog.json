@@ -1,0 +1,24 @@
+[
+    {
+        "id": "dr0001",
+        "cat": "dr",
+        "title": "【饮品】牢大特饮",
+        "author": "科比·布莱恩特",
+        "size": "1.4MB",
+        "desc": "孩子们，喝冰红茶了",
+        "cover_ext": "jpg",
+        "sha256": "34d7704d2229df1879cc1d26004ad48d49a20f2df7c6232e94eb70d445e5360a",
+        "update_time": "2026-08-26"
+    },
+    {
+        "id": "gf0001",
+        "cat": "gf",
+        "title": "【干饭人】科比",
+        "author": "科比·布莱恩特",
+        "size": "1.4MB",
+        "desc": "吃牢饭",
+        "cover_ext": "jpg",
+        "sha256": "8f07bc07e03cf53400ff2b7f88e9f24376156d5b8319d01363c4cfe23779cfc2",
+        "update_time": "2026-08-26"
+    }
+]
