@@ -1,24 +1,52 @@
 [
-    {
-        "id": "dr0001",
-        "cat": "dr",
-        "title": "【饮品】牢大特饮",
-        "author": "科比·布莱恩特",
-        "size": "1.4MB",
-        "desc": "孩子们，喝冰红茶了",
-        "cover_ext": "jpg",
-        "sha256": "34d7704d2229df1879cc1d26004ad48d49a20f2df7c6232e94eb70d445e5360a",
-        "update_time": "2026-08-26"
-    },
-    {
-        "id": "gf0001",
-        "cat": "gf",
-        "title": "【干饭人】科比",
-        "author": "科比·布莱恩特",
-        "size": "1.4MB",
-        "desc": "吃牢饭",
-        "cover_ext": "jpg",
-        "sha256": "8f07bc07e03cf53400ff2b7f88e9f24376156d5b8319d01363c4cfe23779cfc2",
-        "update_time": "2026-08-26"
-    }
+  {
+    "id": "fd0001",
+    "cat": "fd",
+    "title": "【食品】HK麦当劳菜单",
+    "author": "金拱门",
+    "size": "11.5MB",
+    "desc": "香港麦当劳食品包_49图",
+    "sha256": "86089ba4e90cfcf449cfee7694696f6248c08b95db6cb72f321dab253b217cc9",
+    "cover_ext": "png"
+  },
+  {
+    "id": "dr0001",
+    "cat": "dr",
+    "title": "【饮品】HK麦当劳饮品菜单",
+    "author": "金拱门",
+    "size": "3.5MB",
+    "desc": "香港麦当劳饮品包_28图",
+    "sha256": "53350f53d6717ae23ca10965242ed8667e2ca775e85d26e9920ac752f624a4cf",
+    "cover_ext": "png"
+  },
+  {
+    "id": "gf0001",
+    "cat": "gf",
+    "title": "【干饭人】琳奈",
+    "author": "可以叫我云大人",
+    "size": "5.7MB",
+    "desc": "漂酱来和琳奈一起干饭吧",
+    "sha256": "7245ed71564595af4c5a4faa1159f8d43cbaa78e3bd0e05ba5f26ce120da2138",
+    "cover_ext": "gif"
+  },
+  {
+    "id": "fd0002",
+    "cat": "fd",
+    "title": "【食品】达美乐披萨图包",
+    "author": "达美乐",
+    "size": "22.7MB",
+    "desc": "达美乐菜单159图",
+    "sha256": "0a7facedfebab5e6dd53c9fcc2d8fb4f78a56174e6a6910400e2ea21f2a9998c",
+    "cover_ext": "png"
+  },
+  {
+    "id": "dr0002",
+    "cat": "dr",
+    "title": "【饮品】达美乐饮品图包",
+    "author": "达美乐",
+    "size": "1.8MB",
+    "desc": "达美乐饮品菜单_18图",
+    "sha256": "6d24e886e172438ce2b7e29c40678cc45ba2195ca7cc32f4fe647af115ac5670",
+    "cover_ext": "png"
+  }
 ]
