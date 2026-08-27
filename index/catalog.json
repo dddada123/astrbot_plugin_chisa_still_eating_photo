@@ -103,5 +103,16 @@
     "desc": "香港麦当劳饮品包_28图",
     "sha256": "53350f53d6717ae23ca10965242ed8667e2ca775e85d26e9920ac752f624a4cf",
     "cover_ext": "png"
+  },
+  {
+    "id": "dr0005",
+    "cat": "dr",
+    "title": "【饮品】兵立王",
+    "author": "佚名",
+    "size": "2.6MB",
+    "desc": "兵立王菜单_12图",
+    "sha256": "72498ece3b7098e63e3cfe99acd7b470ce121faf8e3a9d135a4ea7626ec7899f",
+    "cover_ext": "png",
+    "update_time": "2026-08-28"
   }
 ]
