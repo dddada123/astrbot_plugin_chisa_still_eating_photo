@@ -81,5 +81,16 @@
     "sha256": "75c2f01203298d2a8a21cee734b06ba623350b5e8616344f1e7846a5368265c3",
     "cover_ext": "jpg",
     "update_time": "2026-08-27"
+  },
+  {
+    "id": "gf0002",
+    "cat": "gf",
+    "title": "【干饭人】 小小爱",
+    "author": "铃兰花酱",
+    "size": "3.3MB",
+    "desc": "让小小爱先吃",
+    "sha256": "f8f6710213c9173369cba8b4c09869e00076f31933c549557ad4a06797702db6",
+    "cover_ext": "gif",
+    "update_time": "2026-08-27"
   }
 ]
