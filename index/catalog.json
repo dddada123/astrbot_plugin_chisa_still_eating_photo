@@ -48,5 +48,38 @@
     "desc": "达美乐饮品菜单_18图",
     "sha256": "6d24e886e172438ce2b7e29c40678cc45ba2195ca7cc32f4fe647af115ac5670",
     "cover_ext": "png"
+  },
+  {
+    "id": "dr0003",
+    "cat": "dr",
+    "title": "【饮品】 瑞幸咖啡",
+    "author": "瑞幸",
+    "size": "2.5MB",
+    "desc": "瑞幸咖啡菜单_46图",
+    "sha256": "da519e23ac1187cf9be6269757533172ea772dcc7a1eb0b422235dc048323590",
+    "cover_ext": "webp",
+    "update_time": "2026-08-27"
+  },
+  {
+    "id": "dr0004",
+    "cat": "dr",
+    "title": "【饮品】 霸王茶姬",
+    "author": "霸王茶姬",
+    "size": "26.5MB",
+    "desc": "霸王茶姬菜单_43图",
+    "sha256": "e7bb2570fb23699dd0e855678538e87c05ef3f2b0f2ea4c79e6d0bd9a61749bb",
+    "cover_ext": "png",
+    "update_time": "2026-08-27"
+  },
+  {
+    "id": "dr0005",
+    "cat": "dr",
+    "title": "【饮品】 兵立王",
+    "author": "兵立王",
+    "size": "2.2MB",
+    "desc": "兵立王菜单_11图",
+    "sha256": "75c2f01203298d2a8a21cee734b06ba623350b5e8616344f1e7846a5368265c3",
+    "cover_ext": "jpg",
+    "update_time": "2026-08-27"
   }
 ]
