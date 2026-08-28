@@ -1,5 +1,16 @@
 [
   {
+    "id": "fd0000",
+    "cat": "fd",
+    "title": "【食品】**重要**基础资源包",
+    "author": "千小妹",
+    "size": "99.2MB",
+    "desc": "用户不部署的话……瓦哒汐……轻量化的基础包，部署更快，更有条理，更省空间。_839图",
+    "sha256": "18648dfbd827cc69b1e0c627058d15a5b0a5622967a2a11b852cc8098df499c9",
+    "cover_ext": "jpg",
+    "update_time": "2026-08-28"
+  },
+  {
     "id": "gf0002",
     "cat": "gf",
     "title": "【干饭人】小小爱",
@@ -108,11 +119,22 @@
     "id": "dr0005",
     "cat": "dr",
     "title": "【饮品】兵立王",
-    "author": "佚名",
+    "author": "兵立王",
     "size": "2.6MB",
     "desc": "兵立王菜单_12图",
     "sha256": "72498ece3b7098e63e3cfe99acd7b470ce121faf8e3a9d135a4ea7626ec7899f",
     "cover_ext": "png",
+    "update_time": "2026-08-28"
+  },
+  {
+    "id": "gd9999",
+    "cat": "gd",
+    "title": "【导游MEME】测试包体",
+    "author": "测试包",
+    "size": "59.3MB",
+    "desc": "【食品】测试包体",
+    "sha256": "eb99fb102ca46b41885799e28ecce538ffb6867fbd2934e5cf715fc2293a7410",
+    "cover_ext": "gif",
     "update_time": "2026-08-28"
   }
 ]
