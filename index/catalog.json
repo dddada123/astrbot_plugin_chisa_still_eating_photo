@@ -114,5 +114,16 @@
     "sha256": "72498ece3b7098e63e3cfe99acd7b470ce121faf8e3a9d135a4ea7626ec7899f",
     "cover_ext": "png",
     "update_time": "2026-08-28"
+  },
+  {
+    "id": "gd9999",
+    "cat": "gd",
+    "title": "【导游MEME】测试包体",
+    "author": "测试包",
+    "size": "59.3MB",
+    "desc": "【食品】测试包体",
+    "sha256": "eb99fb102ca46b41885799e28ecce538ffb6867fbd2934e5cf715fc2293a7410",
+    "cover_ext": "gif",
+    "update_time": "2026-08-28"
   }
 ]
