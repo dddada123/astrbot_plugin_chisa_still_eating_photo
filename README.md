@@ -147,7 +147,6 @@ A：工具允许，但**强烈不建议**——插件端固定按 `Chisa_Dlc_Sto
 │   └── local_state.json        # 清理状态标记
 ├── releases/                   # 锻造出的 ZIP 安装包
 ├── covers/                     # 商品封面图
-├── backup/                     # 本地历史备份
 ├── logs/                       # 运行日志
 ├── banner.*                    # 商店横幅海报
 ├── github_config.json          # 仓库配置（Token 支持加密存储）
