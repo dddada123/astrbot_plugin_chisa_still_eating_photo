@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "sk0002",
+  "name": "莉贝雷利奥·深海",
+  "author": "牢指",
+  "type": "glass",
+  "desc": "",
+  "vars": {
+    "--hover-tint": "rgba(209, 80, 255, 0.12)",
+    "--bg": "#241009",
+    "--panel": "rgba(43, 21, 49, 0.45)",
+    "--card": "rgba(56, 28, 62, 0.40)",
+    "--text": "#F7EFF9",
+    "--muted": "#BBA7C2",
+    "--primary": "#D150FF",
+    "--primary-hover": "#B32EE6",
+    "--line": "rgba(209, 80, 255, 0.30)",
+    "--shadow": "rgba(0, 0, 0, 0.65)",
+    "--surface": "rgba(67, 32, 75, 0.50)",
+    "--surface-dark": "rgba(24, 11, 30, 0.55)",
+    "--input-bg": "#2B1831",
+    "--overlay": "rgba(16, 5, 20, 0.75)"
+  },
+  "glass": true,
+  "quotes": [
+    "人類，你很安靜。就像深海。所以和你在一起……沒那麼難受。",
+    "在你身邊很好入睡。所以你就待在我身旁吧，人類。",
+    "人類，好奇怪。我越來越喜歡你的安靜了。"
+  ],
+  "assets": {
+    "bg": "skin/sk0002.jpg"
+  }
+}
