@@ -16,6 +16,14 @@
       "config": "skin/sk0002.json",
       "glass": true,
       "bg": "skin/sk0002.jpg"
+    },
+    {
+      "id": "sk0004",
+      "name": "阿尼斯",
+      "author": "马士丁",
+      "config": "skin/sk0004.json",
+      "glass": true,
+      "bg": "skin/sk0004.jpg"
     }
   ]
 }
