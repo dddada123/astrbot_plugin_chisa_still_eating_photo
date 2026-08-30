@@ -426,7 +426,6 @@
 - 本工具仅供学习与个人创作，请遵守 GitHub 服务条款和图片素材版权要求。
 - 不要把 GitHub Token、私人仓库内容或未授权素材发送给 AI。
 - 强制下架、镜像同步和云端删除属于高风险操作，执行前请确认当前仓库与选中编号。
-- 使用问题可前往 [插件项目 Issues](https://github.com/dddada123/astrbot_plugin_chisa_still_eating/issues) 反馈。
 
 ---
 
