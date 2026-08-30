@@ -3,16 +3,16 @@
   "skins": [
     {
       "id": "sk0003",
-      "name": "莉贝雷利奥",
-      "author": "牢指",
+      "name": "莉贝雷利奥·溯洄之梦",
+      "author": "异端者部队",
       "config": "skin/sk0003.json",
       "glass": true,
       "bg": "skin/sk0003.jpg"
     },
     {
       "id": "sk0005",
-      "name": "阿尼斯",
-      "author": "马士丁",
+      "name": "阿尼斯·碳酸泡泡",
+      "author": "反击部队",
       "config": "skin/sk0005.json",
       "glass": true,
       "bg": "skin/sk0005.jpg"
