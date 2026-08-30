@@ -7,7 +7,12 @@
       "author": "异端者部队",
       "config": "skin/sk0003.json",
       "glass": true,
-      "bg": "skin/sk0003.jpg"
+      "bg": "skin/sk0003.jpg",
+      "desc": "静谧深海的化身，也最爱安睡。",
+      "vars": {
+        "--primary": "#D257FF",
+        "--bg": "#45215E"
+      }
     },
     {
       "id": "sk0005",
