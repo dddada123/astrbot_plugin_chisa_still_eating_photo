@@ -2,20 +2,20 @@
   "schema_version": 1,
   "skins": [
     {
-      "id": "sk0002",
-      "name": "莉贝雷利奥·深海",
-      "author": "牢指",
-      "config": "skin/sk0002.json",
-      "glass": true,
-      "bg": "skin/sk0002.jpg"
-    },
-    {
       "id": "sk0003",
       "name": "莉贝雷利奥",
       "author": "牢指",
       "config": "skin/sk0003.json",
       "glass": true,
       "bg": "skin/sk0003.jpg"
+    },
+    {
+      "id": "sk0002",
+      "name": "莉贝雷利奥·深海",
+      "author": "牢指",
+      "config": "skin/sk0002.json",
+      "glass": true,
+      "bg": "skin/sk0002.jpg"
     }
   ]
 }
