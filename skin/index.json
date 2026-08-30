@@ -20,7 +20,12 @@
       "author": "反击部队",
       "config": "skin/sk0005.json",
       "glass": true,
-      "bg": "skin/sk0005.jpg"
+      "bg": "skin/sk0005.jpg",
+      "desc": "如果你请我喝一罐碳酸水打水，我倒可以考虑让你多盯几秒哦。",
+      "vars": {
+        "--primary": "#f5b949",
+        "--bg": "#004080"
+      }
     }
   ]
 }
