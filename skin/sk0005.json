@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "id": "sk0005",
-  "name": "阿尼斯",
-  "author": "马士丁",
+  "name": "阿尼斯·碳酸泡泡",
+  "author": "反击部队",
   "type": "glass",
   "desc": "",
   "vars": {
@@ -25,6 +25,7 @@
   "glass": true,
   "quotes": [
     "一起来喝碳酸水吧指挥官"
+    "哎呀，今天下班这么早？看来又能赖在指挥官这里蹭一顿好吃的了。"
   ],
   "assets": {
     "bg": "skin/sk0005.jpg"
