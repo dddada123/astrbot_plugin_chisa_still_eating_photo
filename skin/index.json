@@ -26,6 +26,19 @@
         "--primary": "#f5b949",
         "--bg": "#004080"
       }
+    },
+    {
+      "id": "sk0006",
+      "name": "达妮娅·予明日以谎言",
+      "author": "西西",
+      "desc": "她真的很热爱校园生活。",
+      "config": "skin/sk0006.json",
+      "glass": true,
+      "bg": "skin/sk0006.jpg",
+      "vars": {
+        "--primary": "#D659CD",
+        "--bg": "#1A0B1F"
+      }
     }
   ]
 }

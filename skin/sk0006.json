@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "sk0006",
+  "name": "达妮娅·予明日以谎言",
+  "author": "西西",
+  "type": "glass",
+  "desc": "她真的很热爱校园生活。",
+  "vars": {
+    "--hover-tint": "rgba(214, 89, 205, 0.15)",
+    "--bg": "#1A0B1F",
+    "--panel": "rgba(26, 11, 31, 0.50)",
+    "--card": "rgba(42, 24, 52, 0.40)",
+    "--text": "#F2E9F2",
+    "--muted": "#C4B5C7",
+    "--primary": "#D659CD",
+    "--primary-hover": "#E878DE",
+    "--primary-contrast": "#111111",
+    "--line": "rgba(214, 103, 209, 0.35)",
+    "--shadow": "rgba(0, 0, 0, 0.45)",
+    "--surface": "rgba(62, 36, 72, 0.35)",
+    "--surface-dark": "rgba(20, 10, 24, 0.55)",
+    "--input-bg": "#2A182F",
+    "--overlay": "rgba(14, 7, 17, 0.60)"
+  },
+  "glass": true,
+  "quotes": [
+    "别去。"
+  ],
+  "assets": {
+    "bg": "skin/sk0006.jpg"
+  }
+}
