@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
   "id": "sk0005",
-  "name": "阿尼斯2",
+  "name": "阿尼斯",
   "author": "马士丁",
   "type": "glass",
   "desc": "",
   "vars": {
-    "--hover-tint": "rgba(255, 255, 0, 0.12)",
-    "--bg": "#241009",
-    "--panel": "rgba(59, 33, 25, 0.45)",
-    "--card": "rgba(72, 40, 30, 0.40)",
-    "--text": "#ffff00",
-    "--muted": "#d6ce87",
-    "--primary": "#ffff00",
-    "--primary-hover": "#e6e600",
+    "--hover-tint": "rgba(245, 185, 73, 0.14)",
+    "--bg": "#004080",
+    "--panel": "rgba(0, 32, 64, 0.50)",
+    "--card": "rgba(0, 48, 96, 0.40)",
+    "--text": "#ffffff",
+    "--muted": "#c0d8f0",
+    "--primary": "#f5b949",
+    "--primary-hover": "#ffcc66",
     "--primary-contrast": "#111111",
-    "--line": "rgba(255, 255, 0, 0.35)",
+    "--line": "rgba(245, 185, 73, 0.30)",
     "--shadow": "rgba(0, 0, 0, 0.45)",
-    "--surface": "rgba(86, 48, 36, 0.35)",
-    "--surface-dark": "rgba(20, 10, 8, 0.55)",
-    "--input-bg": "#2f1810",
-    "--overlay": "rgba(10, 5, 5, 0.60)"
+    "--surface": "rgba(0, 64, 128, 0.35)",
+    "--surface-dark": "rgba(0, 16, 32, 0.55)",
+    "--input-bg": "#002b50",
+    "--overlay": "rgba(0, 0, 0, 0.50)"
   },
   "glass": true,
   "quotes": [
-    "好兄弟还会记得她学狗叫的那一天吗"
+    "一起来喝碳酸水吧指挥官"
   ],
   "assets": {
     "bg": "skin/sk0005.jpg"
