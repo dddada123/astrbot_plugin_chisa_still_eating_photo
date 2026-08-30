@@ -10,14 +10,6 @@
       "bg": "skin/sk0003.jpg"
     },
     {
-      "id": "sk0002",
-      "name": "莉贝雷利奥·深海",
-      "author": "牢指",
-      "config": "skin/sk0002.json",
-      "glass": true,
-      "bg": "skin/sk0002.jpg"
-    },
-    {
       "id": "sk0005",
       "name": "阿尼斯",
       "author": "马士丁",
