@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "sk0005",
+  "name": "阿尼斯2",
+  "author": "马士丁",
+  "type": "glass",
+  "desc": "",
+  "vars": {
+    "--hover-tint": "rgba(255, 255, 0, 0.12)",
+    "--bg": "#241009",
+    "--panel": "rgba(59, 33, 25, 0.45)",
+    "--card": "rgba(72, 40, 30, 0.40)",
+    "--text": "#ffff00",
+    "--muted": "#d6ce87",
+    "--primary": "#ffff00",
+    "--primary-hover": "#e6e600",
+    "--primary-contrast": "#111111",
+    "--line": "rgba(255, 255, 0, 0.35)",
+    "--shadow": "rgba(0, 0, 0, 0.45)",
+    "--surface": "rgba(86, 48, 36, 0.35)",
+    "--surface-dark": "rgba(20, 10, 8, 0.55)",
+    "--input-bg": "#2f1810",
+    "--overlay": "rgba(10, 5, 5, 0.60)"
+  },
+  "glass": true,
+  "quotes": [
+    "好兄弟还会记得她学狗叫的那一天吗"
+  ],
+  "assets": {
+    "bg": "skin/sk0005.jpg"
+  }
+}
