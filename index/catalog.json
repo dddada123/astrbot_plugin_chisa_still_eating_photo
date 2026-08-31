@@ -13,10 +13,10 @@
   {
     "id": "dk0001",
     "cat": "dk",
-    "title": "【黑暗料理】黑暗料理DLC",
+    "title": "【黑暗料理】暗黑 · 基础风味包",
     "author": "哈基米",
     "size": "11.0MB",
-    "desc": "很难不一眼相中这虚质甜甜圈_20图",
+    "desc": "让哈基米生成了20张黑暗料理_20图",
     "sha256": "54ed1cf05f0e7cba644f3d11417cc9f73688078d092d47efd3f7825c0dae5d95",
     "cover_ext": "jpg",
     "update_time": "2026-08-31"
@@ -136,5 +136,16 @@
     "sha256": "72498ece3b7098e63e3cfe99acd7b470ce121faf8e3a9d135a4ea7626ec7899f",
     "cover_ext": "png",
     "update_time": "2026-08-28"
+  },
+  {
+    "id": "dk0002",
+    "cat": "dk",
+    "title": "【黑暗料理】似乎有点魂",
+    "author": "南北绿豆",
+    "size": "7.1MB",
+    "desc": "在火的时代终结之前，饥饿先于诅咒降临。_30图",
+    "sha256": "3fd577ae2fd1212960936d0d9dc6eb56003dbc6b0e32b297e9d2cdafff428947",
+    "cover_ext": "png",
+    "update_time": "2026-08-31"
   }
 ]
