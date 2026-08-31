@@ -39,6 +39,19 @@
         "--primary": "#f5b949",
         "--bg": "#004080"
       }
+    },
+    {
+      "id": "sk0007",
+      "name": "清宵·镜水沧澜",
+      "author": "师尊",
+      "desc": "看尽云卷云舒，独守一隅清寒",
+      "config": "skin/sk0007.json",
+      "glass": true,
+      "bg": "skin/sk0007.jpg",
+      "vars": {
+        "--primary": "#3EDBC9",
+        "--bg": "#0B1922"
+      }
     }
   ]
 }
