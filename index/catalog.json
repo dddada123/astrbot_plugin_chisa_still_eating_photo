@@ -11,6 +11,38 @@
     "update_time": "2026-08-28"
   },
   {
+    "id": "dk0001",
+    "cat": "dk",
+    "title": "【黑暗料理】黑暗料理DLC",
+    "author": "哈基米",
+    "size": "11.0MB",
+    "desc": "让哈基米生成了20张黑暗料理_20图",
+    "sha256": "54ed1cf05f0e7cba644f3d11417cc9f73688078d092d47efd3f7825c0dae5d95",
+    "cover_ext": "jpg",
+    "update_time": "2026-08-31"
+  },
+  {
+    "id": "dr0003",
+    "cat": "dr",
+    "title": "【饮品】瑞幸咖啡",
+    "author": "瑞幸",
+    "size": "2.5MB",
+    "desc": "瑞幸咖啡菜单_46图",
+    "sha256": "da519e23ac1187cf9be6269757533172ea772dcc7a1eb0b422235dc048323590",
+    "cover_ext": "webp",
+    "update_time": "2026-08-27"
+  },
+  {
+    "id": "fd0002",
+    "cat": "fd",
+    "title": "【食品】达美乐披萨图包",
+    "author": "达美乐",
+    "size": "22.7MB",
+    "desc": "达美乐菜单159图",
+    "sha256": "0a7facedfebab5e6dd53c9fcc2d8fb4f78a56174e6a6910400e2ea21f2a9998c",
+    "cover_ext": "png"
+  },
+  {
     "id": "gf0002",
     "cat": "gf",
     "title": "【干饭人】小小爱",
@@ -54,35 +86,13 @@
     "update_time": "2026-08-28"
   },
   {
-    "id": "dr0003",
-    "cat": "dr",
-    "title": "【饮品】瑞幸咖啡",
-    "author": "瑞幸",
-    "size": "2.5MB",
-    "desc": "瑞幸咖啡菜单_46图",
-    "sha256": "da519e23ac1187cf9be6269757533172ea772dcc7a1eb0b422235dc048323590",
-    "cover_ext": "webp",
-    "update_time": "2026-08-27"
-  },
-  {
-    "id": "dr0004",
-    "cat": "dr",
-    "title": "【饮品】霸王茶姬",
-    "author": "霸王茶姬",
-    "size": "26.5MB",
-    "desc": "霸王茶姬菜单_43图",
-    "sha256": "e7bb2570fb23699dd0e855678538e87c05ef3f2b0f2ea4c79e6d0bd9a61749bb",
-    "cover_ext": "png",
-    "update_time": "2026-08-27"
-  },
-  {
-    "id": "fd0002",
+    "id": "fd0001",
     "cat": "fd",
-    "title": "【食品】达美乐披萨图包",
-    "author": "达美乐",
-    "size": "22.7MB",
-    "desc": "达美乐菜单159图",
-    "sha256": "0a7facedfebab5e6dd53c9fcc2d8fb4f78a56174e6a6910400e2ea21f2a9998c",
+    "title": "【食品】HK麦当劳食品",
+    "author": "金拱门",
+    "size": "11.5MB",
+    "desc": "香港麦当劳食品包_49图",
+    "sha256": "86089ba4e90cfcf449cfee7694696f6248c08b95db6cb72f321dab253b217cc9",
     "cover_ext": "png"
   },
   {
@@ -96,16 +106,6 @@
     "cover_ext": "png"
   },
   {
-    "id": "fd0001",
-    "cat": "fd",
-    "title": "【食品】HK麦当劳食品",
-    "author": "金拱门",
-    "size": "11.5MB",
-    "desc": "香港麦当劳食品包_49图",
-    "sha256": "86089ba4e90cfcf449cfee7694696f6248c08b95db6cb72f321dab253b217cc9",
-    "cover_ext": "png"
-  },
-  {
     "id": "dr0001",
     "cat": "dr",
     "title": "【饮品】HK麦当劳饮品",
@@ -114,6 +114,17 @@
     "desc": "香港麦当劳饮品包_28图",
     "sha256": "53350f53d6717ae23ca10965242ed8667e2ca775e85d26e9920ac752f624a4cf",
     "cover_ext": "png"
+  },
+  {
+    "id": "dr0004",
+    "cat": "dr",
+    "title": "【饮品】霸王茶姬",
+    "author": "霸王茶姬",
+    "size": "26.5MB",
+    "desc": "霸王茶姬菜单_43图",
+    "sha256": "e7bb2570fb23699dd0e855678538e87c05ef3f2b0f2ea4c79e6d0bd9a61749bb",
+    "cover_ext": "png",
+    "update_time": "2026-08-27"
   },
   {
     "id": "dr0005",
