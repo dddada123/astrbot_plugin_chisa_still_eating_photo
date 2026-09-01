@@ -2,7 +2,7 @@
 
 > 图形化 DLC、皮肤商品与 GitHub 仓库管理工具。零命令行完成「创作内容 → 生成索引 → 上传 GitHub → 玩家在 WebUI 一键获取」的全流程，与 [千小妹还在吃](https://github.com/dddada123/astrbot_plugin_chisa_still_eating) 插件的 **千小妹严选 / 创意工坊 / 皮肤工坊** 生态无缝集成。
 
-**📥 稳定版下载**：[Chisa_kitchen_manager_3.0.19β.pyw](https://github.com/dddada123/astrbot_plugin_chisa_still_eating_photo/releases/download/%E5%8D%83%E5%B0%8F%E5%A6%B9%E5%90%8E%E5%8E%A8DLC%E4%BB%93%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/Chisa_kitchen_manager_v3.0.19.pyw)
+**📥 稳定版下载**：[Chisa_kitchen_manager_3.0.29α.pyw](https://github.com/dddada123/astrbot_plugin_chisa_still_eating_photo/releases/download/%E5%8D%83%E5%B0%8F%E5%A6%B9%E5%90%8E%E5%8E%A8DLC%E4%BB%93%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/Chisa_kitchen_manager_3.0.29a.pyw)
 
 ---
 
