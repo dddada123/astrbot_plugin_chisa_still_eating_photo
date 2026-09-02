@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "id": "sk0008",
+  "name": "爱弥斯·虹彩逐风",
+  "author": "飞行雪绒",
+  "type": "glass",
+  "desc": "粉发映着晴空与彩虹，纸飞机与泡泡交织出轻盈幻梦。",
+  "vars": {
+    "--hover-tint": "rgba(255, 111, 174, 0.15)",
+    "--bg": "#0A1A2A",
+    "--panel": "rgba(10, 26, 42, 0.45)",
+    "--card": "rgba(20, 40, 60, 0.40)",
+    "--text": "#FFFFFF",
+    "--muted": "#B8CCE0",
+    "--primary": "#FF6FAE",
+    "--primary-hover": "#FF92C4",
+    "--primary-contrast": "#111111",
+    "--line": "rgba(255, 111, 174, 0.35)",
+    "--shadow": "rgba(0, 0, 0, 0.40)",
+    "--surface": "rgba(30, 50, 70, 0.40)",
+    "--surface-dark": "rgba(6, 15, 25, 0.50)",
+    "--input-bg": "#14293C",
+    "--overlay": "rgba(6, 15, 25, 0.35)"
+  },
+  "glass": true,
+  "quotes": [
+    "乘着纸飞机，越过彩虹桥",
+    "记得把我的纸飞机好好收藏哦",
+    "这一次，我不会再离开了"
+  ],
+  "assets": {
+    "bg": "skin/sk0008.png"
+  }
+}

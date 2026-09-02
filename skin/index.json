@@ -52,6 +52,19 @@
         "--primary": "#f5b949",
         "--bg": "#004080"
       }
+    },
+    {
+      "id": "sk0008",
+      "name": "爱弥斯·虹彩逐风",
+      "author": "飞行雪绒",
+      "desc": "粉发映着晴空与彩虹，纸飞机与泡泡交织出轻盈幻梦。",
+      "config": "skin/sk0008.json",
+      "glass": true,
+      "bg": "skin/sk0008.png",
+      "vars": {
+        "--primary": "#FF6FAE",
+        "--bg": "#0A1A2A"
+      }
     }
   ]
 }
