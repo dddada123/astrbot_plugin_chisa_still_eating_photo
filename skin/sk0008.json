@@ -20,7 +20,7 @@
     "--surface": "rgba(30, 50, 70, 0.40)",
     "--surface-dark": "rgba(6, 15, 25, 0.50)",
     "--input-bg": "#14293C",
-    "--overlay": "rgba(6, 15, 25, 0.35)"
+    "--overlay": "rgba(0, 0, 0, 0)"
   },
   "glass": true,
   "quotes": [
